@@ -19,4 +19,4 @@
 
 # Achievements
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Andryss)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Andryss?ext=heatmap)
