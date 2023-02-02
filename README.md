@@ -16,3 +16,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring framework" width="70"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React JS" width="70"/>
 </span>
+
+# Achievements
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Andryss)
